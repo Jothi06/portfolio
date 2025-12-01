@@ -7,7 +7,7 @@ export default function Hero() {
     Subtitle: 'Frontend Developer • 3D Artist',
     social: {
       twitter: '',
-      linkedln: 'linkedin.com/in/jothi-lakshmi-b58443219',
+      linkedln: 'https://linkedin.com/in/jothi-lakshmi-b58443219',
       whatsapp: ''
     }
   };
